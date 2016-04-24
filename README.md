@@ -37,7 +37,22 @@ We handed in our controllers this Monday, it went well although I feel as though
 ## Week 22
 I found this week both fascinating and disappointing. The fascinating parts where the lectures and presentation, the lectures consisted of the design patterns which I feel I'm doing better in than the practical aspect of programming. The other was IP law which I had a basic understanding of but the clarification was very useful. The presentation went well I enjoyed giving it and it seemed as though our Agile rep liked it as well, we had a small "debate" about my question for my essay and that was the highlight of my week as I love to challenge people and hear their opinions of subject matters. The disappointing factor of that week came the same day as the agile presentations, I was unable to complete the second sprint for our game, the usual complications had arisen. I could not figure out how to implement movement to the NPC's, I asked for help but didn't get far. The unfortunate side effect of having a group member who's skills are far superior than your own is that when the member in question designs the system it turns out to be far more complicated than I can manage. When speaking to the Agile rep we came to the conclusion that I should take a more digital engagement approach and use group communication more effectively over the internet.
 
-## Week 23
+## Easter
 As its the Easter holidays, the only thing I have accomplished this week is reading through all of my research papers. I will commence the rest of my work starting next week.
 
+Unfortunately due to personal demons I did not manage to get a notable amount of work done over Easter.
+
+##Week 23
+Being back in university has helped immensely, I have put myself back on track with my work and have made a leap in my API project. The group project has so far as I know been put back into motion as well, I have finally managed to make the NPC's move seems like a silly mistake now that I think of it but I was too distracted to see it during the Easter holidays. I believe the next steps for me will be to keep a positive attitude and do my best with the current projects I have going at the moment, more than that I can not do.
+
 ##Week 24
+
+##Week 25
+
+##Week 26
+
+##Week 27 
+
+##Week 28
+
+
