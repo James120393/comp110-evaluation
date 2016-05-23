@@ -46,7 +46,7 @@ Unfortunately due to personal demons I did not manage to get a notable amount of
 Being back in university has helped immensely, I have put myself back on track with my work and have made a leap in my API project. The group project has so far as I know been put back into motion as well, I have finally managed to make the NPC's move seems like a silly mistake now that I think of it but I was too distracted to see it during the Easter holidays. I believe the next steps for me will be to keep a positive attitude and do my best with the current projects I have going at the moment, more than that I can not do.
 
 ##Week 24
-
+This week I just had general support, 
 ##Week 25
 
 ##Week 26
