@@ -46,13 +46,17 @@ Unfortunately due to personal demons I did not manage to get a notable amount of
 Being back in university has helped immensely, I have put myself back on track with my work and have made a leap in my API project. The group project has so far as I know been put back into motion as well, I have finally managed to make the NPC's move seems like a silly mistake now that I think of it but I was too distracted to see it during the Easter holidays. I believe the next steps for me will be to keep a positive attitude and do my best with the current projects I have going at the moment, more than that I can not do.
 
 ##Week 24
+This week I worked on my API hacking, this turned out to be far easier than I had expected. LUA seems to be a simple language and my project is now quite under scoped. Fortunately this has allowed me to catch up on my group project work.
 
 ##Week 25
+We had two reviews this week, one for the API and the other for the Agile essay. I feel that both went well although the Agile essay I will be glad to have done and over with. Although I have enjoyed writing the essay it has become tedious to think about it.
 
 ##Week 26
+The essay has been handed in along with the API project. I am pleased with them both, I have learnt a lot about using new solutions to an issue and I believe if I were to attempt to implement Agile fully into my projects it would be easier now that I have a much greater understanding of how it works. 
 
 ##Week 27 
+We reviewed our coding task two this week, I was confused about how it would be reviewed in and worried about the amount of pair programming and not individual work went into it, but as I have been told before pair programming Is a healthy method to use for a project. We also only have one week remaining for the game project hand-in, and feel that the game has come along way since Easter and I am happy with the outcome.
 
 ##Week 28
-
+Its all handed in now, and my first year of university is over. I have had my ups and downs but with perseverance I believe I will do fine in the coming years. The group project has taught me a lot when working with other people and I will apply what I have learnt to next years projects. I am looking forward to starting year two as there will be a lot of involvement with the BA's as myself and two other programmers will be working with them to make the game.
 
